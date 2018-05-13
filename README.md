@@ -1,9 +1,9 @@
 # BootMicroservices
 
-- ms-config-repo
+- ms-config-repo:  
   Ambiente com as configuraçes do clients  
   Deve ser criado um repositorio com ```git init```  
-  Os dados so seram utilizados se tiverem commitados  
+  Os dados so seram utilizados se tiverem comitados  
   
 - ms-config-server-demo
 - ms-client-demo
